@@ -73,6 +73,13 @@ A curated list of awesome developer utilities and services to boost your product
 | 📊 Charts | D3.js |
 | 🗺️ Map Geofencing | react-leaflet + leaflet-draw, Mapbox, or Maplibre + react-map-gl |
 
+## 📊 Drag and Drop Libraries
+
+| Category | Choice |
+|----------|--------|
+| 🔄 General-purpose | dnd kit |
+| 📋 List-specific | react-beautiful-dnd |
+
 ## 🧰 Utilities
 
 | Category | Choice |
