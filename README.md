@@ -11,7 +11,7 @@ A curated list of awesome developer utilities and services to boost your product
 - [🌐 Web APIs](#web-apis)
 
 
-## 📧 General Dev Tools
+## ⚙️ General Dev Tools
 
 - [Semantic Git commit messages](https://dev.to/danywalls/how-to-improve-your-git-commit-messages-using-conventional-commits-49f5) - Semantic Git commit messages
 
